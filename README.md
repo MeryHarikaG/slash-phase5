@@ -11,12 +11,12 @@
 [![Close as a feature](https://github.com/SE23-Team44/slash-phase4/actions/workflows/close_as_a_feature.yml/badge.svg)](https://github.com/SE23-Team44/slash-phase4/actions/workflows/close_as_a_feature.yml)
 
 <!--Badges-->
-<a href="https://github.com/MeryHarikaG/slash-phase5/blob/project3/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/MeryHarikaG/slash-phase5"></a>
-<a href="https://github.com/MeryHarikaG/slash-phase5/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/MeryHarikaG/slash-phase5"></a>
+<a href="https://github.com/MeryHarikaG/slash-phase5/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/MeryHarikaG/slash-phase5"></a>
+<a href="https://github.com/MeryHarikaG/slash-phase5/forks"><img alt="GitHub forks" src="https://img.shields.io/github/forks/MeryHarikaG/slash-phase5"></a>
 <a href="https://github.com/MeryHarikaG/slash-phase5/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/MeryHarikaG/slash-phase5"></a>
 <a href="https://github.com/MeryHarikaG/slash-phase5/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/MeryHarikaG/slash-phase5"></a>
-<img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/MeryHarikaG/slash-phase5">
-<img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/MeryHarikaG/slash-phase5">
+<a href="https://github.com/MeryHarikaG/slash-phase5/issues"><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/MeryHarikaG/slash-phase5">
+<a href="https://github.com/MeryHarikaG/slash-phase5/pulls"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/MeryHarikaG/slash-phase5">
 <img alt="Discord Channel" src="https://img.shields.io/discord/1162231656980168876">
 
 
@@ -131,14 +131,28 @@ streamlit run slash_user_interface.py
 - Slash in its current form is for students who wish to get the best deals out of every e-commerce site and can be used by anyone who is willing to develop an application that consumes these web APIs.
 - Future scope includes anything from a web application with a frontend or any Android or IOS application that utilises these Web APIs at their backend. Anyone can build their own custom application on top of these web APIs.
 
-:golf: Phase 4 developments
+:golf: Phase 5 developments
 ---
-- Implemented secure user-based login with PostgreSQL and JWT, enhancing the project usability.
-- Implemented the wishlist feature, making it easy for users to save and access search results.
-- Significantly improved UI with sidebar, dedicated pages, and a robust wishlist feature.
-- Added currency conversion, allowing users to view results in their preferred currency.
-- Users can now download search results in CSV format, enhancing utility.
-- Integrated a PostgreSQL database for login and wishlist functionalities.
+1. **Price Filtering**
+   - Description: We have added a price filtering feature that allows users to specify a minimum and maximum price range for their product searches.
+   - Functionality: Users can now refine their search results by setting price limits, ensuring they see only products within their budget.
+
+
+2. **Price-Based Sorting**
+   - Description: A new sorting feature has been integrated, enabling users to sort products based on their price, from the cheapest to the most expensive.
+   - Functionality: This feature enhances the usability of the search function, allowing users to quickly find products that match their price preferences.
+
+3. **Highlighting the Cheapest Product**
+   - Description: To aid users in quickly identifying the most affordable options, the cheapest product in any search or filter result is now highlighted.
+   - Functionality: This visual cue helps users easily locate the best deals without having to manually compare prices.
+
+4. **Enhanced User Interface**
+   - Description: The user interface has been overhauled for a more intuitive and aesthetically pleasing experience.
+   - Functionality: Improvements include streamlined navigation, responsive design elements, and a more cohesive color scheme and typography, enhancing overall user interaction with the - -application.
+
+5. **Wishlist and Registration Bug Fixes**
+   - Description: We addressed and resolved previously identified bugs in the wishlist and registration pages.
+   - Functionality: Users can now seamlessly add or remove items from their wishlist without encountering errors, and the registration process has been optimized for better reliability and user feedback.
 
 <img src = https://github.com/SE23-Team44/slash-phase4/blob/main/assets/search%20gif.gif>
 
@@ -157,8 +171,6 @@ Future Roadmap
 * Enhanced Search Capabilities: Improve the search functionality by introducing advanced search capabilities. This can include options for filtering search results based on ratings, price ranges, and other relevant criteria, giving users more refined search options.
 
 * Multi-Platform Integration: Expand the platform's capabilities by incorporating search results from various e-commerce platforms such as Etsy, Dick's Sporting Goods, and more. This will provide users with optimized outcomes from a diverse selection of online vendors.
-
-* Highlight Cheapest Product: Highlight the most affordable product in the result table and display it separately for an easier user experience. This feature can help users quickly identify the best deals.
 
 * Social Media Login: Add support for different methods of login, such as Gmail, Facebook, or other social media accounts, to provide users with convenient and secure login options.
 
@@ -180,7 +192,7 @@ Future Roadmap
 
 ## 🙏 Acknowledgements <a name="Acknowledgement"></a>
 We would like to thank Professor Dr Timothy Menzies for helping us understand the process of Maintaining a good Software Engineering project. We would also like to thank the teaching assistants for their support throughout the project.
-We would also like to extend our gratitude to previous group : https://github.com/rohan22shah/slash-phase3
+We would also like to extend our gratitude to previous group : https://github.com/SE23-Team44/slash-phase4
 - [https://streamlit.io/](https://streamlit.io/)
 - [https://shields.io/](https://shields.io/)
 
