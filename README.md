@@ -6,7 +6,7 @@
 [![Python Style Checker](https://github.com/SE23-Team44/slash-phase4/actions/workflows/style_checker.yml/badge.svg)](https://github.com/SE23-Team44/slash-phase4/actions/workflows/style_checker.yml)
 [![Run Tests On Push](https://github.com/SE23-Team44/slash-phase4/actions/workflows/unit_test.yml/badge.svg)](https://github.com/SE23-Team44/slash-phase4/actions/workflows/unit_test.yml)
 [![Python Application](https://github.com/SE23-Team44/slash-phase4/actions/workflows/python-app.yml/badge.svg)](https://github.com/SE23-Team44/slash-phase4/actions/workflows/python-app.yml)
-[![Lint Python](https://github.com/SE23-Team44/slash-phase4/actions/workflows/main.yml/badge.svg)](https://github.com/SE23-Team44/slash-phase4/actions/workflows/main.yml)
+[![Lint Python](https://github.com/MeryHarikaG/slash-phase5/actions/workflows/main.yml/badge.svg)](https://github.com/MeryHarikaG/slash-phase5/actions/workflows/main.yml)
 [![Running Code Coverage](https://github.com/SE23-Team44/slash-phase4/actions/workflows/code_cov.yml/badge.svg)](https://github.com/SE23-Team44/slash-phase4/actions/workflows/code_cov.yml)
 [![Close as a feature](https://github.com/SE23-Team44/slash-phase4/actions/workflows/close_as_a_feature.yml/badge.svg)](https://github.com/SE23-Team44/slash-phase4/actions/workflows/close_as_a_feature.yml)
 
