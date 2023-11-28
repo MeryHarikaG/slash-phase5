@@ -142,15 +142,19 @@ streamlit run slash_user_interface.py
 1. **Price Filtering**
    - Description: We have added a price filtering feature that allows users to specify a minimum and maximum price range for their product searches.
    - Functionality: Users can now refine their search results by setting price limits, ensuring they see only products within their budget.
+
 2. **Price-Based Sorting**
    - Description: A new sorting feature has been integrated, enabling users to sort products based on their price, from the cheapest to the most expensive.
    - Functionality: This feature enhances the usability of the search function, allowing users to quickly find products that match their price preferences.
+
 3. **Highlighting the Cheapest Product**
    - Description: To aid users in quickly identifying the most affordable options, the cheapest product in any search or filter result is now highlighted.
    - Functionality: This visual cue helps users easily locate the best deals without having to manually compare prices.
+
 4. **Enhanced User Interface**
    - Description: The user interface has been overhauled for a more intuitive and aesthetically pleasing experience.
-   - Functionality: Improvements include streamlined navigation, responsive design elements, and a more cohesive color scheme and typography, enhancing overall user interaction with the application.
+   - Functionality: Improvements include streamlined navigation, responsive design elements, and a more cohesive color scheme and typography, enhancing overall user interaction with the - -application.
+
 5. **Wishlist and Registration Bug Fixes**
    - Description: We addressed and resolved previously identified bugs in the wishlist and registration pages.
    - Functionality: Users can now seamlessly add or remove items from their wishlist without encountering errors, and the registration process has been optimized for better reliability and user feedback.
